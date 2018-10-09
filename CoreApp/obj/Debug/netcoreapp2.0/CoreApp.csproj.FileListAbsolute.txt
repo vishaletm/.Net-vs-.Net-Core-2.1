@@ -1,0 +1,11 @@
+G:\Test projects\Core_vs_Net\CoreApp\CoreApp\bin\Debug\netcoreapp2.0\CoreApp.deps.json
+G:\Test projects\Core_vs_Net\CoreApp\CoreApp\bin\Debug\netcoreapp2.0\CoreApp.runtimeconfig.json
+G:\Test projects\Core_vs_Net\CoreApp\CoreApp\bin\Debug\netcoreapp2.0\CoreApp.runtimeconfig.dev.json
+G:\Test projects\Core_vs_Net\CoreApp\CoreApp\bin\Debug\netcoreapp2.0\CoreApp.dll
+G:\Test projects\Core_vs_Net\CoreApp\CoreApp\bin\Debug\netcoreapp2.0\CoreApp.pdb
+G:\Test projects\Core_vs_Net\CoreApp\CoreApp\obj\Debug\netcoreapp2.0\CoreApp.csprojResolveAssemblyReference.cache
+G:\Test projects\Core_vs_Net\CoreApp\CoreApp\obj\Debug\netcoreapp2.0\CoreApp.csproj.CoreCompileInputs.cache
+G:\Test projects\Core_vs_Net\CoreApp\CoreApp\obj\Debug\netcoreapp2.0\CoreApp.AssemblyInfoInputs.cache
+G:\Test projects\Core_vs_Net\CoreApp\CoreApp\obj\Debug\netcoreapp2.0\CoreApp.AssemblyInfo.cs
+G:\Test projects\Core_vs_Net\CoreApp\CoreApp\obj\Debug\netcoreapp2.0\CoreApp.dll
+G:\Test projects\Core_vs_Net\CoreApp\CoreApp\obj\Debug\netcoreapp2.0\CoreApp.pdb

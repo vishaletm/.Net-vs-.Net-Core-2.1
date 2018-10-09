@@ -1,0 +1,7 @@
+G:\Test projects\Core_vs_Net\CoreApp\NetApp\bin\Debug\NetApp.exe.config
+G:\Test projects\Core_vs_Net\CoreApp\NetApp\bin\Debug\NetApp.exe
+G:\Test projects\Core_vs_Net\CoreApp\NetApp\bin\Debug\NetApp.pdb
+G:\Test projects\Core_vs_Net\CoreApp\NetApp\obj\Debug\NetApp.csprojResolveAssemblyReference.cache
+G:\Test projects\Core_vs_Net\CoreApp\NetApp\obj\Debug\NetApp.csproj.CoreCompileInputs.cache
+G:\Test projects\Core_vs_Net\CoreApp\NetApp\obj\Debug\NetApp.exe
+G:\Test projects\Core_vs_Net\CoreApp\NetApp\obj\Debug\NetApp.pdb
