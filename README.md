@@ -1,1 +1,1 @@
-# .Net-vs-.Net-Core-2.1
+# .Net 4.7.1 vs .Net Core 2.1
