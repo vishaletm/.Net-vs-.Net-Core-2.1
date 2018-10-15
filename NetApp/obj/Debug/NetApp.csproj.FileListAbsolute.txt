@@ -5,3 +5,9 @@ G:\Test projects\Core_vs_Net\CoreApp\NetApp\obj\Debug\NetApp.csprojResolveAssemb
 G:\Test projects\Core_vs_Net\CoreApp\NetApp\obj\Debug\NetApp.csproj.CoreCompileInputs.cache
 G:\Test projects\Core_vs_Net\CoreApp\NetApp\obj\Debug\NetApp.exe
 G:\Test projects\Core_vs_Net\CoreApp\NetApp\obj\Debug\NetApp.pdb
+D:\Projects\Test\.Net-vs-.Net-Core-2.1\NetApp\bin\Debug\NetApp.exe.config
+D:\Projects\Test\.Net-vs-.Net-Core-2.1\NetApp\obj\Debug\NetApp.exe
+D:\Projects\Test\.Net-vs-.Net-Core-2.1\NetApp\obj\Debug\NetApp.pdb
+D:\Projects\Test\.Net-vs-.Net-Core-2.1\NetApp\bin\Debug\NetApp.exe
+D:\Projects\Test\.Net-vs-.Net-Core-2.1\NetApp\bin\Debug\NetApp.pdb
+D:\Projects\Test\.Net-vs-.Net-Core-2.1\NetApp\obj\Debug\NetApp.csprojResolveAssemblyReference.cache
