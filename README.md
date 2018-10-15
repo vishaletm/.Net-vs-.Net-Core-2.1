@@ -1,7 +1,7 @@
 # Performance Improvements in .NET Core
 This examples are taken from ## [.NET Blog](https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/) written by by  [Stephen Toub - MSFT](https://social.msdn.microsoft.com/profile/Stephen+Toub+-+MSFT)  
 
-There are 5 examples taken from the blog, each of them are available as seperate functions
+There are 5 examples taken from the blog, each of them are available as separate functions
 
      QueCollection() - Example using Queue
      SortedSetExample() - Example using sortedset
