@@ -14,10 +14,10 @@ namespace NetApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("I am .net 4.7.1 App");
+            Console.WriteLine("I am .net 4.6.1 App");
             //QueCollection();
-            //SortedSetExample();
-            // Concat();
+           // SortedSetExample();
+             //Concat();
             // OrderBy();
             Serialize();
             while (true) ;

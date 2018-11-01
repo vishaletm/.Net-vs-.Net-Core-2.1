@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
+    <RuntimeIdentifiers>win81-x64</RuntimeIdentifiers>
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 

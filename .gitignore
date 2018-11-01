@@ -3,3 +3,7 @@
 /.vs/CoreApp/v15/Server/sqlite3/storage.ide
 /.vs/CoreApp/v15/Server/sqlite3/storage.ide-shm
 /.vs/CoreApp/v15/Server/sqlite3/storage.ide-wal
+/CoreApp/bin/*
+/CoreApp/obj/*
+/NetApp/bin/*
+/NetApp/obj/*
