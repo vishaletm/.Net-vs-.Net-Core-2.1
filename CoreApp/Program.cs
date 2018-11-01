@@ -15,22 +15,23 @@ namespace CoreApp
         static void Main(string[] args)
         {
             Console.WriteLine("I am .net Core 2.1 App");
-          // QueueCollection();
-          //SortedSetExample();
-         // Concat();
-        // OrderBy();
-        Serialize();
+            // QueueCollection();
+            //SortedSetExample();
+            // Concat();
+            // OrderBy();
+             Serialize();
+            while (true) ;
         }
 
-void QueueCollection()
-{
-     Console.WriteLine("Collection Example 1");
-      while (true)
+       static void QueueCollection()
+        {
+            Console.WriteLine("Collection Example 1");
+            while (true)
             {
                 var q = new Queue<int>();
                 Stopwatch stopwatch = new Stopwatch();
                 stopwatch.Start();
-                for (int i = 0; i < 10000000;i++)
+                for (int i = 0; i < 10000000; i++)
                 {
                     q.Enqueue(i);
                     q.Dequeue();
@@ -38,31 +39,31 @@ void QueueCollection()
                 Console.WriteLine("Time elapsed: {0}", stopwatch.Elapsed);
                 Thread.Sleep(1000);
             }
-}
+        }
         static void SortedSetExample()
         {
-             Console.WriteLine("Collection Example 2");
-             var sw = Stopwatch.StartNew();
-        var ss = new SortedSet<int>(Enumerable.Repeat(42, 400000));
-        Console.WriteLine(sw.Elapsed);
+            Console.WriteLine("Collection Example 2");
+            var sw = Stopwatch.StartNew();
+            var ss = new SortedSet<int>(Enumerable.Repeat(42, 400000));
+            Console.WriteLine(sw.Elapsed);
         }
         static void Concat()
         {
-            //
-             IEnumerable<int> zeroToTen = Enumerable.Range(0, 10);
-        IEnumerable<int> result = zeroToTen;
-        for (int i = 0; i < 10000; i++)
-        {
-            result = result.Concat(zeroToTen);
-        }
+            Console.WriteLine("Linq  Example Concat");
+            IEnumerable<int> zeroToTen = Enumerable.Range(0, 10);
+            IEnumerable<int> result = zeroToTen;
+            for (int i = 0; i < 10000; i++)
+            {
+                result = result.Concat(zeroToTen);
+            }
 
-        var sw = Stopwatch.StartNew();
-        foreach (int i in result) { }
-        Console.WriteLine(sw.Elapsed);
-    
+            var sw = Stopwatch.StartNew();
+            foreach (int i in result) { }
+            Console.WriteLine(sw.Elapsed);
+
             //
         }
-         static void OrderBy()
+        static void OrderBy()
         {
             Console.WriteLine("Linq  Example Order by");
             IEnumerable<int> tenMillionToZero = Enumerable.Range(0, 10000000).Reverse();
